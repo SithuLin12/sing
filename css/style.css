@@ -1,0 +1,23 @@
+.bg-img{
+    background-image: url('/image/gold.jpg');
+    background-position: center;
+}
+
+.img{
+    width: 60%;
+    margin-top: 0;
+}
+
+.mobile{
+    width: 15%;
+   margin-top: 5%;
+}
+
+.mobile-two{
+    width: 15%;
+    margin-top: 5%;
+}
+
+.btn{
+    width: 40%;
+}
